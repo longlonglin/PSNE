@@ -1,0 +1,14 @@
+appr:
+  alpha: 0.35
+  num_round: 30
+  window_size: 15
+  mu: 25
+  dataset_path: PSNE/datasets/BlogCatalog-dataset/data/edges.csv
+  save_emb_path: embeddings/blog.emb
+  graph_name: blog
+evaluate:
+  label_path: PSNE/datasets/BlogCatalog-dataset/data/group-edges.csv
+  save_emb_path: embeddings/blog.emb
+  shuffle: 10
+
+
