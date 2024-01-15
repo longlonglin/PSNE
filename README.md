@@ -1,5 +1,5 @@
 # PSNE
-Implementations of the model are proposed in the following paper. PSNE: Spectral Sparsification Algorithms for Scaling Network Embedding
+
 ## Requirements
 Start with conda 
 ```bash
